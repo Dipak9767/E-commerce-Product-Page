@@ -208,6 +208,7 @@ header .logo img {
 
 header .name {
     font-size: 2rem;
+    color: #555;
 }
 
 button {
@@ -259,7 +260,7 @@ button {
     position: absolute;
     top: 20%;
     left: 35%;
-    color: rgb(20 85 234 / 71%);
+    color: rgba(8, 81, 252, 0.71);
     font-weight: 600;
     font-size: large;
 }
